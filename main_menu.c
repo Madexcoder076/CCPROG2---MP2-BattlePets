@@ -1,8 +1,14 @@
 #include <stdio.h>
-#define RED "\x1b[31m"
-#define RESET "\x1b[0m"
-void mainMenu(){
+#define RED "\x1b[31m" // Text Color changer
+#define RESET "\x1b[0m" 
+
+int main(){
+
 int nChoice = 0;
+/*
+    Main Menu Loop.
+    Loop will only exit when 0 is inputted
+*/
 do{
     printf("Main Menu\n");
     printf("[1] Battle\n");
@@ -29,13 +35,6 @@ do{
 }
 }while (nChoice!= 0);
 
-}
-
-
-int main(){
-
-
-mainMenu();
 
 
     

@@ -1,12 +1,10 @@
 /**
  * Description      : BattlePets - a text-based game that simulates a match between
  *                    a roster of BattlePets between two players.
- * Author/s         : Delos Santos, Diego
- * Section          : S20A
- * Last Modified    : November 23, 2026
- * Acknowledgments  : AI assistance with debugging and implementation ideas; code
- *                    reviewed, understood, and adapted by the author.
- */
+ * Author/s         : Delos Santos, Diego; <Insert Name>
+ * Section          : S20C
+ * Last Modified    :
+ * Acknowledgments  : 
 
 #include <stdio.h>
 #include <string.h>

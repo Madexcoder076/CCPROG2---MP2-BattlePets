@@ -1,7 +1,7 @@
 /**
  * Description      : BattlePets - a text-based game that simulates a match between
  *                    a roster of BattlePets between two players.
- * Author/s         : Delos Santos, Diego; <Insert Name>
+ * Author/s         : <Delos Santos, Diego>; <Insert Name>
  * Section          : S20C
  * Last Modified    :
  * Acknowledgments  : 

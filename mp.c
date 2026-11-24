@@ -599,13 +599,4 @@ int main()
 }
 
 
-/*
- * CERTIFICATION
- * I certify that I understand the code submitted for this milestone and can
- * explain its implementation. Any AI assistance used is acknowledged above,
- * and the submitted code has been reviewed and adapted by me.
- *
- * Name: Diego Delos Santos
- * Section: S20A
- * Date: November 23, 2026
- */
+
